@@ -1,0 +1,8 @@
+<suite name="My Test Suite" parallel="tests" thread-count="3">
+    <test name="Test 1">
+        <classes>
+            <!--<class name="com.mycompany.myproject.MyTestClass1"/-->
+        </classes>
+    </test>
+    <!-- Add more tests as needed -->
+</suite>
